@@ -1,6 +1,6 @@
 # Express-Calculator
 
-Simple calculator using express and nodeJS. Try the following:<br>
+Simple calculator using express and nodeJS. Try the following:<br><br>
 Localhost:3000/add/[number]/[number]<br>
 Localhost:3000/subtract/[number]/[number]<br>
 Localhost:3000/multiply/[number]/[number]<br>
